@@ -1,0 +1,8 @@
+level,Borough
+high_both,['Camden' 'Hackney' 'Islington' 'Lambeth' 'Newham' 'Southwark']
+low,"['Barking and Dagenham' 'Bexley' 'Harrow' 'Havering'
+ 'Kingston upon Thames' 'Merton' 'Richmond upon Thames' 'Sutton']"
+mid,"['Barnet' 'Brent' 'Bromley' 'Croydon' 'Ealing' 'Enfield' 'Greenwich'
+ 'Hammersmith and Fulham' 'Haringey' 'Hillingdon' 'Hounslow'
+ 'Kensington and Chelsea' 'Lewisham' 'Redbridge' 'Tower Hamlets'
+ 'Waltham Forest' 'Wandsworth']"

@@ -1,0 +1,32 @@
+Borough,Violence_2012_13,theft_2012_13,predicted_clusters
+Barking and Dagenham,3761,6242,1
+Barnet,4077,10458,2
+Bexley,2842,4406,1
+Brent,6193,8193,2
+Bromley,4100,8018,2
+Camden,5030,17767,0
+Croydon,6521,11103,2
+Ealing,6939,11306,2
+Enfield,4340,8572,2
+Greenwich,5290,8148,2
+Hackney,5699,13064,0
+Hammersmith and Fulham,4269,10534,2
+Haringey,4701,9687,2
+Harrow,2873,4489,1
+Havering,3317,6454,1
+Hillingdon,4870,7471,2
+Hounslow,5217,8713,2
+Islington,5394,13942,0
+Kensington and Chelsea,2698,12065,2
+Kingston upon Thames,2212,4333,1
+Lambeth,6827,15292,0
+Lewisham,5765,8760,2
+Merton,2541,5445,1
+Newham,6458,13452,0
+Redbridge,4124,9028,2
+Richmond upon Thames,2052,4920,1
+Southwark,6502,13774,0
+Sutton,2569,4385,1
+Tower Hamlets,6115,11154,2
+Waltham Forest,4982,10323,2
+Wandsworth,4115,12055,2
